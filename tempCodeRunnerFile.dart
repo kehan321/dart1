@@ -1,0 +1,1 @@
+"// Question no:01 output  $number1"
